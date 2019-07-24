@@ -1,0 +1,30 @@
+p {
+color: gray;
+}
+header{
+    background: green;
+    color: white;
+}
+nav a{
+background: white;
+color: green
+}
+#info {
+    background: orange;
+    color: blue;
+
+}
+section{
+    content: 25px solid yellow; 
+    padding: 15px solid blue;   
+    border: 30px solid red;
+    margin: 5px solid black;
+
+background-image:url(../img/fon.png);
+background-size: auto;
+background-position: right 20px bottom 20px;
+}
+
+body{
+    
+}
